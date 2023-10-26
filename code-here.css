@@ -4,3 +4,11 @@
     font-weight: bold;
     font-size: 1em;
 }
+
+#modern {
+    background-color: #fed700;
+    padding: 15px 18px 0px 18px;
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+}
