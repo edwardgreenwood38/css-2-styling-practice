@@ -12,3 +12,12 @@
     font-weight: bold;
     font-family: sans-serif;
 }
+
+#impact {
+    background-color: #90ee90;
+    border:double 18px black;
+    text-align: center;
+    padding: 1em;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+}
