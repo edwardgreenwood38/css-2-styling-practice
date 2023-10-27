@@ -31,15 +31,15 @@
     font-family: cursive;
 }
 
-.doubles {
+#one, #two, #three {
     display: inline-block;
-    border: .4em outset #1b7b7d;
-    background-color: #7efed4 !important;
+    border: .4em ridge #34ced1;
+    background-color: #7efed4;
     padding: .8em 1em;
-    margin: 5.5em 1em 0em 3em !important;
+    margin-left: 2em;
     text-align: center;
     font-weight: bold;
-    font-family: Arial;
+    font-family: sans-serif;
 }
 
 #gaudi {
