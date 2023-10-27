@@ -30,3 +30,24 @@
     padding: 1.5em 1em;
     font-family: cursive;
 }
+
+.doubles {
+    display: inline-block;
+    border: .4em outset #1b7b7d;
+    background-color: #7efed4 !important;
+    padding: .8em 1em;
+    margin: 5.5em 1em 0em 3em !important;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+#gaudi {
+    background-color: #fba07a;
+    text-align: center;
+    font-weight: bold;
+    padding: 1em 1.5em 0em 1.5em;
+    font-family: Tahoma, sans-serif;
+    border-radius: 15px 50px;
+    box-shadow: 3px 3px 3px grey;
+}
